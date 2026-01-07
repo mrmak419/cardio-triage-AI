@@ -1,0 +1,13 @@
+{
+  "URL": "http://cardio-backend-ayaan.azurewebsites.net",
+  "appserviceplan": "25f2003624_asp_9155",
+  "location": "centralindia",
+  "name": "cardio-backend-ayaan",
+  "os": "Linux",
+  "resourcegroup": "CardioHackathonRG",
+  "runtime_version": "PYTHON|3.11",
+  "runtime_version_detected": "-",
+  "sku": "BASIC",
+  "src_path": "C:\\Users\\mrmak\\OneDrive\\Desktop\\microsoft-backend\\cardio-triage-AI\\backend"
+
+}  

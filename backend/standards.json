@@ -1,0 +1,31 @@
+{
+  "vitals": {
+    "bp_systolic": {
+      "critical": 180,
+      "high": 140
+    },
+    "heart_rate": {
+      "tachycardia": 120,
+      "bradycardia": 50
+    },
+    "spo2": {
+      "hypoxia": 90,
+      "critical": 85
+    }
+  },
+  "keywords": {
+    "critical": [
+      "troponin positive", 
+      "st elevation", 
+      "acute myocardial infarction", 
+      "critical", 
+      "emergency"
+    ],
+    "warning": [
+      "borderline", 
+      "abnormal", 
+      "irregular rhythm", 
+      "mild evaluation"
+    ]
+  }
+}
